@@ -1,2 +1,1 @@
-# psych481
-All things PSYCH 481 related.
+# Reading List for Feb 10
